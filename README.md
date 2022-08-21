@@ -25,13 +25,21 @@ php artisan serve
 
 - localhost: http://127.0.0.1:8000/
 
+```
+chmod -R guo+w storage
+```
 
+**WAMP SERVER**
+- PHP 8.1
+- localhost: http://localhost/laravel_crud/crud/public/
 
+```
+vim .env
+```
 
-
-
-
-
+```
+mysql -u root -e "CREATE DATABASE crud" -p"123456"
+```
 
 
 
