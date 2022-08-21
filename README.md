@@ -18,8 +18,12 @@ composer global require laravel/installer
 laravel new crud
 ```
 
+**Roda o projeto**
+```
+php artisan serve
+```
 
-
+- localhost: http://127.0.0.1:8000/
 
 
 
