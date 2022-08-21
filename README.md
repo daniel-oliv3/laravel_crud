@@ -6,9 +6,17 @@
 ## Composer.
 - Site: https://getcomposer.org/
 
+```
+composer global require laravel/installer
+```
 
+- `c/Users/Daniel_Oliveira/AppData/Roaming/Composer/vendor/bin/laravel`
 
+**Criando o projeto**
 
+```
+laravel new crud
+```
 
 
 
